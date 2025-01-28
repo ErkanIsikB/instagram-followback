@@ -17,7 +17,7 @@ Go to the Console Tab:
 In the Developer Tools window, navigate to the Console tab.
 
 Paste the Code:
-Copy the script below and paste it into the console. Replace "username" with the Instagram username you want to analyze (If you want to analyze a private account, the account you logged in with should follow them).
+Copy the script below and paste it into the console. Replace "user" with the Instagram username you want to analyze (If you want to analyze a private account, the account you logged in with should follow them).
 
 Run the Script:
 Press Enter to execute the script. The script will fetch and analyze the follower/following data.

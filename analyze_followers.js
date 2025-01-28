@@ -1,3 +1,5 @@
+// License: MIT
+
 const targetProfile = "user"; // Replace with the target username
 
 const followerData = [], followingData = [];
